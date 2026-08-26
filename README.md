@@ -2,7 +2,7 @@
 
 <p align="center">
  🔭 I’m currently working on <b>Building my portfolio</b><br>
- 🦋 I’m currently learning <b>Machine learning</b>
+ 🦋 AI/ML ENGINEER
 </p>
 <h3 align="left">My profiles ^^</h3>
 <p align="left">
